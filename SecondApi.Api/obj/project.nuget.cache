@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r0soZ8nMvV4+hQ6Jnw2wPVk3smxGrcy91KaivH/qPWQobqtHXAsPKVKExBM8pOPTeFq63cmY5J6uWQNwLa8bKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Documents\\SecondApi\\SecondApi.Api\\SecondApi.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
